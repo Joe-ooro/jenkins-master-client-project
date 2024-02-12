@@ -66,4 +66,5 @@ public class Customer {
     public void setSegment(String segment) {
         this.segment = segment;
     }
+    
 }
